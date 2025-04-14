@@ -1,0 +1,151 @@
+disease_id,name,specialty_id,med_id,severity
+1,Influenza,SP001,41,1
+2,Type 1 Diabetes,SP002,2,3
+3,Hypertension,SP003,16,2
+4,Asthma,SP004,9,1
+5,Migraine,SP005,44,5
+6,Rheumatoid Arthritis,SP006,6,5
+7,Pneumonia,SP007,28,1
+8,Breast Cancer,SP008,2,1
+9,Hepatitis A,SP009,14,2
+10,Tuberculosis,SP010,33,5
+11,Iron Deficiency Anemia,SP011,2,5
+12,Stroke,SP012,13,5
+13,Chronic Bronchitis,SP013,27,2
+14,Osteoporosis,SP014,29,5
+15,Gastritis,SP015,18,1
+16,Coronary Artery Disease,SP016,49,2
+17,Epilepsy,SP017,45,4
+18,Psoriasis,SP018,22,3
+19,Ulcerative Colitis,SP019,10,2
+20,Cataract,SP020,49,3
+21,Lung Cancer,SP021,7,1
+22,Hepatitis B,SP022,25,1
+23,Malaria,SP023,23,3
+24,Parkinson’s Disease,SP024,39,3
+25,Hypothyroidism,SP025,3,4
+26,Sickle Cell Anemia,SP026,35,1
+27,Prostate Cancer,SP027,25,1
+28,Eczema,SP028,36,3
+29,Crohn’s Disease,SP029,41,5
+30,Glaucoma,SP030,24,5
+31,Chronic Kidney Disease,SP031,13,1
+32,Leukemia,SP032,3,2
+33,Hepatitis C,SP033,50,3
+34,Dengue Fever,SP034,6,2
+35,Alzheimer’s Disease,SP035,7,4
+36,Hyperthyroidism,SP036,18,4
+37,Thalassemia,SP037,41,3
+38,Ovarian Cancer,SP038,11,3
+39,Atopic Dermatitis,SP039,23,2
+40,Diverticulitis,SP040,43,3
+41,Retinal Detachment,SP041,45,1
+42,Emphysema,SP042,39,2
+43,Cirrhosis,SP043,35,2
+44,Yellow Fever,SP044,11,4
+45,Multiple Sclerosis,SP045,25,3
+46,Graves’ Disease,SP046,41,5
+47,Lymphoma,SP047,15,3
+48,Pancreatic Cancer,SP048,50,1
+49,Contact Dermatitis,SP049,15,1
+50,Appendicitis,SP050,21,4
+51,Macular Degeneration,SP051,18,1
+52,Cystic Fibrosis,SP052,14,5
+53,Fatty Liver,SP053,46,3
+54,Chikungunya,SP054,14,4
+55,Amyotrophic Lateral Sclerosis,SP055,26,4
+56,Cushing’s Syndrome,SP056,10,3
+57,Myeloma,SP057,9,2
+58,Colon Cancer,SP058,48,5
+59,Seborrheic Dermatitis,SP059,35,3
+60,Gallstones,SP060,48,5
+61,Strabismus,SP061,28,5
+62,Bronchiectasis,SP062,26,3
+63,Portal Hypertension,SP063,15,2
+64,Zika Virus,SP064,33,4
+65,Huntington’s Disease,SP065,6,1
+66,Addison’s Disease,SP066,8,2
+67,Sarcoma,SP067,41,2
+68,Bladder Cancer,SP068,44,4
+69,Rosacea,SP069,39,1
+70,Pancreatitis,SP070,25,4
+71,Amblyopia,SP071,39,4
+72,Pulmonary Fibrosis,SP072,34,3
+73,Hemochromatosis,SP073,36,1
+74,Rabies,SP074,44,1
+75,Spinal Muscular Atrophy,SP075,44,5
+76,Acromegaly,SP076,49,3
+77,Hodgkin’s Lymphoma,SP077,50,3
+78,Stomach Cancer,SP078,8,3
+79,Vitiligo,SP079,28,2
+80,Cholecystitis,SP080,30,1
+81,Nystagmus,SP081,47,3
+82,Idiopathic Pulmonary Fibrosis,SP082,33,2
+83,Wilson’s Disease,SP083,33,1
+84,West Nile Virus,SP084,41,3
+85,Duchenne Muscular Dystrophy,SP085,41,5
+86,Gigantism,SP086,39,2
+87,Non-Hodgkin’s Lymphoma,SP087,10,3
+88,Esophageal Cancer,SP088,49,2
+89,Lichen Planus,SP089,35,5
+90,Biliary Colic,SP090,1,5
+91,Keratoconus,SP091,21,4
+92,Sarcoidosis,SP092,2,1
+93,Primary Biliary Cholangitis,SP093,24,3
+94,Lyme Disease,SP094,16,1
+95,Myasthenia Gravis,SP095,16,5
+96,Pituitary Adenoma,SP096,6,1
+97,Melanoma,SP097,47,4
+98,Kidney Cancer,SP098,5,5
+99,Pemphigus,SP099,50,2
+100,Hepatic Encephalopathy,SP100,9,4
+101,Uveitis,SP101,36,2
+102,Asbestosis,SP102,17,5
+103,Autoimmune Hepatitis,SP103,39,4
+104,Typhoid Fever,SP104,14,5
+105,Guillain-Barré Syndrome,SP105,49,2
+106,Prolactinoma,SP106,46,3
+107,Brain Tumor,SP107,26,3
+108,Testicular Cancer,SP108,29,5
+109,Urticaria,SP109,29,1
+110,Barrett’s Esophagus,SP110,16,2
+111,Conjunctivitis,SP111,5,3
+112,Silicosis,SP112,2,5
+113,Polycystic Kidney Disease,SP113,36,2
+114,Leptospirosis,SP114,38,2
+115,Charcot-Marie-Tooth Disease,SP115,1,1
+116,Pheochromocytoma,SP116,46,1
+117,Glioma,SP117,15,1
+118,Cervical Cancer,SP118,3,3
+119,Pruritus,SP119,5,5
+120,Hiatal Hernia,SP120,16,3
+121,Iritis,SP121,43,4
+122,Mesothelioma,SP122,14,5
+123,Nephrotic Syndrome,SP123,9,5
+124,Brucellosis,SP124,37,4
+125,Friedreich’s Ataxia,SP125,16,4
+126,Adrenal Cancer,SP126,27,2
+127,Neuroblastoma,SP127,7,1
+128,Endometrial Cancer,SP128,43,4
+129,Alopecia Areata,SP129,23,4
+130,Esophagitis,SP130,27,4
+131,Blepharitis,SP131,47,1
+132,Berylliosis,SP132,44,1
+133,Glomerulonephritis,SP133,4,4
+134,Q Fever,SP134,47,3
+135,Spinocerebellar Ataxia,SP135,7,2
+136,Thyroid Cancer,SP136,13,2
+137,Retinoblastoma,SP137,35,4
+138,Uterine Cancer,SP138,9,4
+139,Tinea Versicolor,SP139,12,3
+140,Gastroesophageal Reflux Disease,SP140,30,2
+141,Keratitis,SP141,5,4
+142,Anthrax,SP142,36,1
+143,Interstitial Lung Disease,SP143,4,5
+144,Schistosomiasis,SP144,1,1
+145,Tay-Sachs Disease,SP145,49,2
+146,Parathyroid Cancer,SP146,11,4
+147,Disease-146,SP147,32,4
+148,Disease-147,SP148,14,4
+149,Disease-148,SP149,4,2
+150,Disease-149,SP150,25,1
